@@ -69,11 +69,10 @@ body {
     width: 0;
 
     position: absolute;
-    top: -15px;
+    top: -13px;
     left: calc(50% - 15px);
 
     border-width: 0 15px 15px;
     border-style: solid;
     border-color: #fb7e14 transparent;
   }
-
