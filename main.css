@@ -1,7 +1,9 @@
 body {
     background-image: url("gabe.jpg");
     background-color: black;
+    background-size: cover cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 #contact-button {
